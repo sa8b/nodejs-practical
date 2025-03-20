@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start:server": "node src/server.js"
+    "start:server": "node src/server.js",
+    "fs:read": "node src/fs/read.js"
   },
   "author": "",
   "license": "ISC"
